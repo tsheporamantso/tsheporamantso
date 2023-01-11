@@ -8,11 +8,14 @@ Full Stack Web Development student at Microverse and passionate about web develo
 
 * 🌍  I'm based in South Africa
 * ✉️  You can contact me at [tshepo.ramantso@outlook.com](mailto:tshepo.ramantso@outlook.com)
+* 🚀  I'm currently working on [Personal Portfolio Project](http://tsheporamantso.github.io/Setup-Mobile-Project/)
 * 🧠  I'm learning HTML5, CSS3, JavaScript and DOM manipulation, Bootstraps, React.js, Redux.js, Ruby, and Ruby on Rails.
 * 🤝  I'm open to collaborating on Projects
 
 <a href="https://www.github.com/tsheporamantso" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/tsheporamantso?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/tsheporamantso?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/ramgt001" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/ramgt001?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 ### Skills
 
 <p align="left">
@@ -25,7 +28,7 @@ src="https://img.shields.io/github/followers/tsheporamantso?logo=github&style=fo
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/tsheporamantso" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tshepogladwinramantso" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ramgt001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/tsheporamantso" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/tshepo_ram" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tshepogladwinramantso" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/gladwintsheporamantso" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ramgt001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
