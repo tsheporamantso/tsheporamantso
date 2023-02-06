@@ -1,4 +1,4 @@
-Hi 👋 My name is Gladwin Tshepo Ramantso
+Hi, I'm Gladwin
 ========================================
 
 Software Developer
