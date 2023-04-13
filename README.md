@@ -1,4 +1,4 @@
-Hi 👋 My name is Gladwin Tshepo Ramantso
+Gladwin Tshepo Ramantso
 ========================================
 
 Software Developer
@@ -6,17 +6,15 @@ Software Developer
 
 Full Stack Web Development student at Microverse and passionate about software development and continuous improvement.
 
-<!-- * 🌍  I'm based in South Africa -->
 * 🖥️  See my portfolio at [My Portfolio](http://tsheporamantso.github.io/Portfolio/)
-<!-- * ✉️  You can contact me at [tshepo.ramantso@outlook.com](mailto:tshepo.ramantso@outlook.com) -->
-* 🚀  I'm currently working on [Awesome-Books](http://tsheporamantso.github.io/Awesome_books/)
+* 🚀  I'm currently working on [LeaderBoard](https://tsheporamantso.github.io/Leaderboard/dist/)
 * 🧠  I'm learning JavaScript.
 * 🤝  I'm open to collaborating on Projects
 
-<a href="https://www.github.com/tsheporamantso" target="_blank" rel="noreferrer"><img
+<!-- <a href="https://www.github.com/tsheporamantso" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tsheporamantso?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/ramgt001" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ramgt001?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
-/></a>
+/></a> -->
 ### Skills
 
 <p align="left">
