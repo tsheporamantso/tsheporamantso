@@ -6,11 +6,11 @@ Software Developer
 
 Full Stack Web Development student at Microverse and passionate about software development and continuous improvement.
 
-* 🌍  I'm based in South Africa
+<!-- * 🌍  I'm based in South Africa -->
 * 🖥️  See my portfolio at [My Portfolio](http://tsheporamantso.github.io/Portfolio/)
-* ✉️  You can contact me at [tshepo.ramantso@outlook.com](mailto:tshepo.ramantso@outlook.com)
+<!-- * ✉️  You can contact me at [tshepo.ramantso@outlook.com](mailto:tshepo.ramantso@outlook.com) -->
 * 🚀  I'm currently working on [Awesome-Books](http://tsheporamantso.github.io/Awesome_books/)
-* 🧠  I'm learning JavaScript and DOM manipulation.
+* 🧠  I'm learning JavaScript.
 * 🤝  I'm open to collaborating on Projects
 
 <a href="https://www.github.com/tsheporamantso" target="_blank" rel="noreferrer"><img
