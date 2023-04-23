@@ -7,7 +7,7 @@ Web Developer
 Full Stack Web Development student at Microverse and passionate about software development and continuous improvement.
 
 * 🖥️  See my portfolio at [My Portfolio](http://tsheporamantso.github.io/Portfolio/)
-* 🚀  I'm currently working on [Math Magicians](http://tsheporamantso.github.io/Leaderboard/dist/)
+* 🚀  I'm currently working on [Math Magicians]()
 * 🧠  I'm learning React and Redux
 * 🤝  I'm open to collaborating on Interesting projects
 
