@@ -6,8 +6,7 @@ Full-Stack Web Developer
 
 Highly driven result-orientated Full-Stack Developer with a deep passion for creating seamless and engaging web applications. With expertise in a wide range of technologies including React, Redux, Ruby, PostgreSQL, Rails, HTML5, CSS3, and JavaScript, I thrive in dynamic and fast-paced development environments.
 
-* 🌍  I'm based in Johannesburg South Africa
-* 🖥️  See my portfolio at [My Portfolio](http://tsheporamantso.github.io/Portfolio/)
+* 🖥️  See my portfolio at [My Portfolio](https://gladwinramantso.netlify.app/)
 * ✉️  You can contact me at [tshepo.ramantso@outlook.com](mailto:tshepo.ramantso@outlook.com)
 * 🤝  I'm open to collaborating on Interesting projects
 
