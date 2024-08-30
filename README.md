@@ -9,7 +9,7 @@ Highly driven result-orientated Full-Stack Developer with a deep passion for cre
 * 🌍  I'm based in Johannesburg South Africa
 * 🖥️  See my portfolio at [My Portfolio](http://tsheporamantso.github.io/Portfolio/)
 * ✉️  You can contact me at [tshepo.ramantso@outlook.com](mailto:tshepo.ramantso@outlook.com)
-* 🧠  I'm learning Node.js / NO-SQL Mango DB / Express / Google Firebase.
+* 🧠  I'm learning Node.JS / ExpressJS / MangoDB and Mongoose.
 * 🤝  I'm open to collaborating on Interesting projects
 
 <a href="https://www.github.com/tsheporamantso" target="_blank" rel="noreferrer"><img
