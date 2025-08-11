@@ -1,4 +1,4 @@
-Hi 👋 My name is Gladwin Tshepo Ramantso
+Gladwin Tshepo Ramantso
 ========================================
 
 Full-Stack Web Developer
