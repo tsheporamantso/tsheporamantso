@@ -9,7 +9,7 @@ Highly driven, result-oriented Full-Stack Developer with a deep passion for crea
 * 🌍  I'm based in Johannesburg, South Africa
 * 🖥️  See my portfolio at [My Portfolio](https://gladwinramantso.netlify.app/)
 * ✉️  You can contact me at [tshepo.ramantso@outlook.com](mailto:tshepo.ramantso@outlook.com)
-* 🧠  I'm learning Algorithms and Data Structures.
+* 🧠  I'm learning ML and Artificial Intelligence.
 * 🤝  I'm open to collaborating on Interesting projects
 
 <a href="https://www.github.com/tsheporamantso" target="_blank" rel="noreferrer"><img
