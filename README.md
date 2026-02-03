@@ -10,7 +10,7 @@ Highly driven, result-oriented Full-Stack Developer with a deep passion for crea
 * 🖥️  See my portfolio at [My Portfolio](https://gladwinramantso.netlify.app/)
 * ✉️  You can contact me at [tshepo.ramantso@outlook.com](mailto:tshepo.ramantso@outlook.com)
 * 🧠  I'm learning ML and Artificial Intelligence.
-* 🤝  I'm open to collaborating on Interesting projects
+* 🤝  I'm open to collaborating on Interesting projects.
 
 <a href="https://www.github.com/tsheporamantso" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tsheporamantso?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
