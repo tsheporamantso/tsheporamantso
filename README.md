@@ -1,4 +1,4 @@
-### Hi, I'm Gladwin 👋
+### Hi, I'm Gladwin 
 
 I'm a full-stack web developer who enjoys building things that are both functional and well-crafted — from clean APIs to polished UIs.
 
