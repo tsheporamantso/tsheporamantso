@@ -7,11 +7,14 @@ I'm a full-stack web developer who enjoys building things that are both function
 **What I work with**
 
 ```
-Frontend   →  React · Redux · TypeScript · JavaScript
-Backend    →  Node.js · Express · Ruby on Rails
-Database   →  MongoDB · PostgreSQL
-```
+const ror = "Ruby on Rails"
 
+techStack: {
+  frontend: ["React", "Redux", "TypeScript", "JavaScript"]
+  backend: ["Node.js", "Express", ror]
+  Database: ["MongoDB", "PostgreSQL"]
+};
+```
 ---
 
 **A few things about me**
