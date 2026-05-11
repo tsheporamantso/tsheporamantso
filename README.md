@@ -17,6 +17,15 @@ techStack: {
 ```
 ---
 
+**Education**
+
+```
+Microverse — Full Stack Web Development
+University of Johannesburg — BCom Accounting & Business Management
+
+```
+---
+
 **A few things about me**
 
 - I care about writing code that's readable and maintainable, not just code that works
