@@ -22,7 +22,6 @@ techStack: {
 ```
 Microverse — Full Stack Web Development
 University of Johannesburg — BCom Accounting & Business Management
-
 ```
 ---
 
