@@ -9,6 +9,7 @@ I'm a full-stack web developer who enjoys building things that are both function
 ```
 Frontend   →  React · Redux · TypeScript · JavaScript
 Backend    →  Node.js · Express · Ruby on Rails
+Database   →  MongoDB · PostgreSQL
 ```
 
 ---
