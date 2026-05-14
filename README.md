@@ -10,7 +10,7 @@ I'm a full-stack web developer who enjoys building things that are both function
 const ror = "Ruby on Rails"
 
 techStack: {
-  frontend: ["React", "Redux", "TypeScript", "JavaScript"]
+  frontend: ["React", "Redux", "TypeScript", "JavaScript", "NextJS"]
   backend: ["Node.js", "Express", ror]
   database: ["MongoDB", "PostgreSQL"]
 };
