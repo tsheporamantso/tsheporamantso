@@ -12,7 +12,7 @@ const ror = "Ruby on Rails"
 techStack: {
   frontend: ["React", "Redux", "TypeScript", "JavaScript"]
   backend: ["Node.js", "Express", ror]
-  database: ["MongoDB", "PostgreSQL"]
+  database: ["MongoDB", "PostgreSQL", SQL]
 };
 ```
 ---
