@@ -13,7 +13,6 @@ techStack: {
   frontend: ["React", "Redux", "TypeScript", "JavaScript"]
   backend: ["Node.js", "Express", ror]
   database: ["MongoDB", "PostgreSQL", SQL]
-  tools: ["Docker", "Git"]
 };
 ```
 ---
