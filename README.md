@@ -7,13 +7,11 @@ I'm a full-stack web developer who enjoys building things that are both function
 **What I work with**
 
 ```
-const ror = "Ruby on Rails"
-
-techStack: {
-  frontend: ["React", "Redux", "TypeScript", "JavaScript", "NextJS"],
-  backend: ["Node.js", "Express", ror],
-  database: ["MongoDB", "PostgreSQL", SQL],
-  tools: ["Docker", "Git"]
+const techStack = {
+  frontend: ["React", "Redux", "TypeScript", "JavaScript", "Next.js"],
+  backend:  ["Node.js", "Express", "Ruby on Rails"],
+  database: ["MongoDB", "PostgreSQL", "SQL"],
+  tools:    ["Docker", "Git"],
 };
 ```
 ---
