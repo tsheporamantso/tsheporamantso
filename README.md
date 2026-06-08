@@ -8,10 +8,10 @@ I'm a full-stack web developer who enjoys building things that are both function
 
 ```
 const techStack = {
-  frontend: ["React", "Redux", "TypeScript", "JavaScript", "Next.js"],
+  frontend: ["React", "Redux Toolkit", "TypeScript", "JavaScript", "Next.js"],
   backend:  ["Node.js", "Express", "Ruby on Rails"],
-  database: ["MongoDB", "PostgreSQL", "SQL"],
-  tools:    ["Docker", "Git"],
+  database: ["MongoDB", "PostgreSQL"],
+  tools:    ["Docker", "Git & Git flow"],
 };
 ```
 ---
