@@ -27,7 +27,7 @@ University of Johannesburg — BCom Accounting & Business Management
 **A few things about me**
 
 - I care about writing code that's readable and maintainable, not just code that works
-- Currently levelling up in JSDoc, Docker and Kubernetes to bring more depth to the frontend work I do
+- Currently levelling up in Load testing with autocannon to bring more depth to the frontend work I do
 - I build full-stack projects end-to-end — from database design to deployment
 
 ---
