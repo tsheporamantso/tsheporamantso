@@ -9,7 +9,7 @@ I'm a full-stack web developer who enjoys building things that are both function
 ```
 const techStack = {
   frontend: ["React", "Redux Toolkit", "TypeScript", "JavaScript", "Next.js"],
-  backend:  ["Node.js", "Express", "Ruby on Rails"],
+  backend:  ["Node.js", "Express", "Ruby on Rails", "Prisma"],
   database: ["MongoDB", "PostgreSQL", "Supabase"],
   tools:    ["Git & Git flow", "React Testing Library", "Docker", "Load Testing"],
 };
