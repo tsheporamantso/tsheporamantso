@@ -11,7 +11,7 @@ const techStack = {
   frontend: ["React", "Redux Toolkit", "TypeScript", "JavaScript", "Next.js"],
   backend:  ["Node.js", "Express", "Ruby on Rails", "Prisma"],
   database: ["MongoDB", "PostgreSQL", "Supabase"],
-  tools:    ["Git & Git flow", "React Testing Library", "Docker", "Load Testing"],
+  tools:    ["Git & Git flow", "React Testing Library", "Docker", "Conventional Commit"],
 };
 ```
 ---
