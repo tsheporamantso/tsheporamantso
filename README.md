@@ -12,7 +12,7 @@ const techStack = {
   backend:  ["Node.js", "Express", "Ruby on Rails", "Prisma"],
   database: ["MongoDB", "PostgreSQL", "Supabase"],
   tools:    ["Git & Git flow", "React Testing Library", "Docker", "Conventional Commit"],
-  ai:       ["Claude Code", "OpenCode"],
+  ai:       ["Claude Code", "OpenCode", "LangChain.js (learning)"],
 };
 ```
 ---
@@ -25,11 +25,10 @@ University of Johannesburg — BCom Accounting & Business Management
 ```
 ---
 
-**A few things about me**
-
-- I care about writing code that's readable and maintainable, not just code that works
-- Currently levelling up on Agentic AI (Claude Code) to bring more depth to the frontend work I do
-- I build full-stack projects end-to-end — from database design to deployment
+**Currently**
+- 🔭 Building full-stack projects end-to-end — from database design to deployment
+- 🌱 Learning LangChain.js to go deeper into agentic and generative AI patterns
+- 💡 Recently shipped an AI shopping assistant (agent loop + tool calling) on a Next.js/Prisma e-commerce app
 
 ---
 
