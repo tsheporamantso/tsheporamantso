@@ -12,7 +12,7 @@ const techStack = {
   backend:  ["Node.js", "Express", "Ruby on Rails", "Prisma"],
   database: ["MongoDB", "PostgreSQL", "Supabase"],
   tools:    ["Git & Git flow", "React Testing Library", "Docker", "Conventional Commit"],
-  ai:       ["Claude Code", "OpenCode", "LangChain.js (learning)"],
+  ai:       ["OpenCode", "LangChain.js (learning)"],
 };
 ```
 ---
