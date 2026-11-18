@@ -11,7 +11,7 @@ const techStack = {
   frontend: ["Ruby on Rails", React", "Redux Toolkit", "TypeScript", "JavaScript", "Next.js"],
   backend:  ["Node.js", "Express", "Ruby on Rails", "Prisma"],
   database: ["MongoDB", "PostgreSQL", "Supabase"],
-  tools:    ["Git & Git flow", "React Testing Library", "RSpec Rails", "Shoulda Matcher", "FactoryBot", "Docker", "Conventional Commit"],
+  tools:    ["Git & Git flow", "React Testing Library", "RSpec Rails", "Shoulda Matcher", "FactoryBot", "Conventional Commit"],
   ai:       ["OpenCode"],
 };
 ```
